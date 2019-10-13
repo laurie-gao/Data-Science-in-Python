@@ -1,2 +1,2 @@
 ### Credits
-Projects are obtained from **Python for Data Science and Machine Learning Bootcamp** by Jose Portilla
+Projects from [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) by Jose Portilla  
